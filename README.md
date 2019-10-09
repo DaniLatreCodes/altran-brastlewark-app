@@ -1,7 +1,7 @@
 #Brastlewark app
 
 ![D3](https://img.shields.io/badge/0.19.0-axios-green)
-![D3](https://img.shields.io/badge/4.12.0-node-sass-red)
+![D3](https://img.shields.io/badge/4.12.0-nodesass-red)
 ![D3](https://img.shields.io/badge/16.10.0-react-Yellow)
 ![D3](https://img.shields.io/badge/2.6.0-nodeFetch-orange)
 ![D3](https://img.shields.io/badge/8.5.1-jsonwebtoken-violet)
